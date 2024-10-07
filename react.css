@@ -1,0 +1,119 @@
+.log{
+  margin: 150px;
+  padding:100px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  background-color: rgb(42, 165, 73);
+
+}
+
+.center{
+  justify-items: center;
+  align-items: center;
+  justify-content: center;
+  margin: 10px 10px 10px 130px;
+font-size: 25px;
+
+}
+.center:hover{
+  background-color: darkblue;
+  transition: 2s;
+}
+.reg{
+  background-color: cyan;
+  border-radius: 5px;
+  align-items: center;
+  justify-content: center;
+}
+.interface{
+  background:url(../IMAGES/House.jpeg);
+  background-size: cover;
+  background-repeat: repeat;
+  
+}
+.navigable{
+    border-radius: 5px;
+    background-color: chartreuse;
+}
+#nav-bar{
+  display: inline;
+  
+}
+#nav-bar ul {
+   float: right;
+    margin-right: 25px;
+
+
+}
+#nav-bar ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+#nav-bar ul li a{
+    display:inline;
+    color:blue;
+    background-color: aqua;
+    
+
+}
+a:hover{
+    background-color:chocolate;
+    transition: 2s;
+    
+}
+
+body{
+    background-color: blanchedalmond;
+    align-items: center;
+    
+
+}
+h1{
+    text-align: center;
+    color: blue;
+    border-radius: 5px;
+    background-color: aqua;
+  }
+  .view{
+    background-color: blueviolet;
+    border-radius: 5px;
+    
+
+  }
+
+.uplift img{
+  width: 500px;
+  height: 500px;
+        
+}
+
+.body2{
+  background-color: rgb(142, 165, 42);
+
+}
+.header{
+  font-size: 25px;
+  border-radius: 5px;
+  
+}
+.body2 img{
+  display:block;
+  float:none;
+  width:200px;
+  height: 200px;
+}
+footer  .rotate{
+  font-size: 3rem;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  
+footer .logo img{
+  border-radius: 5px;
+  background-color:blue;
+  width:20px;
+  height: 20px;
+  float: right;
+}
